@@ -69,3 +69,11 @@ git add .
 git commit -m "Update project"
 git push origin main
 ```
+
+## pull(sync project for changes)
+
+```bash
+git status
+git pull origin main
+
+```
